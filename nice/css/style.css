@@ -1,0 +1,21 @@
+div {
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+
+.a {
+	background: yellow;
+}
+
+.b {
+	background:red;
+}
+
+.c {
+	background:blue;
+}
+
+.d {
+	background:green;
+}
